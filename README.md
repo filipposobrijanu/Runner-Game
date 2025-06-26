@@ -3,6 +3,8 @@
 
 A fast-paced 2D side-scrolling arcade game inspired by classic infinite runners like the Chrome Dinosaur Game, but with enhanced mechanics and visual appeal. Players control a nimble character automatically moving forward through an ever-accelerating obstacle course.
 
+![screenshot](Images/1.PNG)
+![screenshot](Images/2.PNG)
 ---
 
 ## 🛠️ Technologies Used
@@ -12,6 +14,7 @@ A fast-paced 2D side-scrolling arcade game inspired by classic infinite runners 
 - **C#**
 - **VS Code** (development IDE)
 
+![screenshot](Images/3.PNG)
 ---
 
 ## 📄 License
